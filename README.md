@@ -1,2 +1,2 @@
 # api_studying
-This repository share with process of studying api.
+This repository shares with process of studying api.
