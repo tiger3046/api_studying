@@ -1,2 +1,2 @@
 # api_studying
-This is studying  process of api and smart application.
+This repository share with process of studying api.
